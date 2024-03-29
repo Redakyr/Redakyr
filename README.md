@@ -1,4 +1,4 @@
-### Fullstack web developer and a pentesting enthusiastic! Also this is my second github profile...
+### Fullstack Web Developer and Security Researcher.
 ### Languages: Portuguese, english and russian!
 
 ##
